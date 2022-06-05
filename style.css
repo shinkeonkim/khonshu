@@ -40,7 +40,7 @@ main {
 }
 
 .dark {
-  background-color: #575851;
+  background-color: #171717;
 }
 
 .title {
@@ -60,7 +60,7 @@ main {
 }
 
 .divider {
-    background-color: #575851;
+    background-color: #171717;
 }
 
 .divider:after {
